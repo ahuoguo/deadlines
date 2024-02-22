@@ -1,6 +1,8 @@
 title: Conference Deadlines
 description: Countdowns to conference deadlines
 author: Abhishek Das
+repository: ahuoguo/deadline
+
 
 domain: "ahuoguo.github.io"
 baseurl: ""
