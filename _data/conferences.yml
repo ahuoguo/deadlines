@@ -6,7 +6,7 @@
   timezone: "America/New_York"
   date: Sun 20 - Fri 25 October 2024
   place: Pasadena, CA, USA
-  sub: SP
+  sub: PL
   note: Round 2
 - title: ECOOP
   year: 2024
@@ -17,7 +17,7 @@
   date: Mon 16 - Fri 20 September 2024
   place: Vienna, Austria
   note: Round 1 deadline on 17 January 2024 (AoE)
-  sub: SP
+  sub: PL
 - title: ICFP
   year: 2024
   id: icfp24
@@ -26,4 +26,4 @@
   timezone: "America/New_York"
   date: Mon 2 - Sat 7 September 2024
   place: Milan, Italy
-  sub: SP
+  sub: PL

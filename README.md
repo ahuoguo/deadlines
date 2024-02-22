@@ -1,1 +1,5 @@
 ## Deadlines
+
+## License
+
+MIT
