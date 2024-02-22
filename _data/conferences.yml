@@ -3,21 +3,27 @@
   id: oopsla24
   link: https://2024.splashcon.org/track/splash-2024-oopsla
   deadline: '2024-04-05 23:59:59'
+  timezone: "America/New_York"
   date: Sun 20 - Fri 25 October 2024
   place: Pasadena, CA, USA
+  sub: SP
   note: Round 2
 - title: ECOOP
   year: 2024
   id: ecoop24
   link: https://2024.ecoop.org
   deadline: '2024-04-17 23:59:59'
+  timezone: "America/New_York"
   date: Mon 16 - Fri 20 September 2024
   place: Vienna, Austria
   note: Round 1 deadline on 17 January 2024 (AoE)
+  sub: SP
 - title: ICFP
   year: 2024
   id: icfp24
   link: https://icfp24.sigplan.org
   deadline: '2024-02-28 23:59:59'
+  timezone: "America/New_York"
   date: Mon 2 - Sat 7 September 2024
   place: Milan, Italy
+  sub: SP
