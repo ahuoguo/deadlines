@@ -1,10 +1,10 @@
 ---
-- name: Programming Languages
+- name: PL
   sub: PL
   color: "#ffd300"
-- name: Formal Methods
+- name: FM
   sub: FM
   color: "#deff0a"
-- name: Software Engineering
+- name: SE
   sub: SE
   color: "#0aefff"
