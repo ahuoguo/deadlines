@@ -1,3 +1,22 @@
+- title: POPL
+  year: 2025
+  id: popl25
+  link: https://conf.researchr.org/home/POPL-2025
+  deadline: '2024-07-11 23:59:59'
+  date: Sun 19 - Sat 25 January 2025
+  timezone: "America/New_York"
+  place: Denver, CO, USA
+  sub: PL
+- title: ASE
+  year: 2024
+  id: ase24
+  link: https://conf.researchr.org/home/ase-2024
+  deadline: '2024-06-07 23:59:59'
+  abstract_deadline: '2024-05-31 23:59:59'
+  timezone: "America/New_York"
+  date: Sun 27 Oct - Fri 1 Nov 2024
+  place: Sacramento, CA, USA
+  sub: SE
 - title: OOPSLA
   year: 2024
   id: oopsla24
