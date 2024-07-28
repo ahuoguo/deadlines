@@ -1,48 +1,46 @@
+- title: OOPSLA
+  year: 2025
+  id: oopsla25
+  link: https://2025.splashcon.org/track/splash-2025-oopsla
+  deadline: '2024-10-20 23:59:59'
+  date: Sun 20 - Fri 25 October 2025
+  place: Moon
+  note: R1
 - title: POPL
   year: 2025
   id: popl25
-  link: https://conf.researchr.org/home/POPL-2025
+  link: https://popl25.sigplan.org/
   deadline: '2024-07-11 23:59:59'
-  date: Sun 19 - Sat 25 January 2025
-  timezone: "America/New_York"
+  date: Sun 19 - Sat 25 Jan 2025
   place: Denver, CO, USA
-  sub: PL
 - title: ASE
   year: 2024
   id: ase24
   link: https://conf.researchr.org/home/ase-2024
   deadline: '2024-06-07 23:59:59'
   abstract_deadline: '2024-05-31 23:59:59'
-  timezone: "America/New_York"
   date: Sun 27 Oct - Fri 1 Nov 2024
   place: Sacramento, CA, USA
-  sub: SE
-- title: OOPSLA
+- title: OOPSLA R2
   year: 2024
   id: oopsla24
   link: https://2024.splashcon.org/track/splash-2024-oopsla
   deadline: '2024-04-05 23:59:59'
-  timezone: "America/New_York"
   date: Sun 20 - Fri 25 October 2024
   place: Pasadena, CA, USA
-  sub: PL
   note: Round 2
 - title: ECOOP
   year: 2024
   id: ecoop24
   link: https://2024.ecoop.org
   deadline: '2024-04-17 23:59:59'
-  timezone: "America/New_York"
   date: Mon 16 - Fri 20 September 2024
   place: Vienna, Austria
   note: Round 1 deadline on 17 January 2024 (AoE)
-  sub: PL
 - title: ICFP
   year: 2024
   id: icfp24
   link: https://icfp24.sigplan.org
   deadline: '2024-02-28 23:59:59'
-  timezone: "America/New_York"
   date: Mon 2 - Sat 7 September 2024
   place: Milan, Italy
-  sub: PL
