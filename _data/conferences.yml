@@ -2,10 +2,10 @@
   year: 2025
   id: oopsla25
   link: https://2025.splashcon.org/track/splash-2025-oopsla
-  deadline: '2024-10-20 23:59:59'
+  deadline: '2024-10-14 23:59:59'
   date: Sun 20 - Fri 25 October 2025
   place: Moon
-  note: R1
+  note: R1, date not sure yet
 - title: POPL
   year: 2025
   id: popl25
