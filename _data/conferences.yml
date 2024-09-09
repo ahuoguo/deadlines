@@ -2,10 +2,26 @@
   year: 2025
   id: oopsla25
   link: https://2025.splashcon.org/track/splash-2025-oopsla
-  deadline: '2024-10-14 23:59:59'
-  date: Sun 20 - Fri 25 October 2025
+  deadline: '2024-03-25 23:59:59'
+  date: Mon 16 - Fri 20 June 2025
   place: Moon
-  note: R1, date not sure yet
+  note: R2
+- title: PLDI
+  year: 2025
+  id: oopsla25
+  link: https://2025.splashcon.org/track/splash-2025-oopsla
+  deadline: '2024-11-14 23:59:59'
+  date: Mon 16 - Fri 20 June 2025
+  place: Moon
+  note: R1
+- title: OOPSLA
+  year: 2025
+  id: oopsla25
+  link: https://2025.splashcon.org/track/splash-2025-oopsla
+  deadline: '2024-10-15 23:59:59'
+  date: Sun 12 - Sat 18 Oct 2025
+  place: Moon
+  note: R1, Oct 15
 - title: POPL
   year: 2025
   id: popl25
