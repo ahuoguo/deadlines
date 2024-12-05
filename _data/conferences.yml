@@ -1,9 +1,16 @@
+- title: LICS
+  year: 2025
+  id: lics25
+  link: https://lics.siglog.org/lics25/cfp.php
+  deadline: '2025-01-23 23:59:59'
+  date: Mon 23 - Fri 26 June 2025
+  place: Moon
 - title: OOPSLA
   year: 2025
   id: oopsla25r2
   link: https://2025.splashcon.org/track/splash-2025-oopsla
   deadline: '2025-03-25 23:59:59'
-  date: Mon 16 - Fri 20 June 2025
+  date: Sun 12 - Sat 18 Oct 2025
   place: Moon
   note: R2
 - title: PLDI
