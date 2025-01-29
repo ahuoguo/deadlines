@@ -2,13 +2,13 @@
   year: 2026
   id: popl26
   link: https://popl26.sigplan.org/
-  deadline: '2024-07-10 23:59:59'
+  deadline: '2025-07-10 23:59:59'
   date: Sun 11 - Sat 17 Jan 2026
   place: Rennes, France
 - title: OOPSLA
   year: 2025
   id: oopsla25r2
-  link: https://2025.splashcon.org/track/splash-2025-oopsla
+  link: https://2025.splashcon.org/track/OOPSLA
   deadline: '2025-03-25 23:59:59'
   date: Sun 12 - Sat 18 Oct 2025
   place: Singapore
