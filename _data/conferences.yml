@@ -1,3 +1,17 @@
+- title: FM
+  year: 2026
+  id: fm2026
+  link: https://conf.researchr.org/home/fm-2026
+  deadline: '2025-11-25 23:59:59'
+  date: Mon 18 - Fri 22 May 2026
+  place: Tokyo, Japan
+- title: VSTTE
+  year: 2025
+  id: vstte2025
+  link: https://systemf.epfl.ch/etc/vstte2025/
+  deadline: '2025-07-14 23:59:59'
+  date: Mon 06 - Tue 07 Oct 2025
+  place: Menlo Park, CA
 - title: POPL
   year: 2026
   id: popl26
