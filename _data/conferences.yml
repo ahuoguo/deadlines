@@ -1,3 +1,10 @@
+- title: PLDI
+  year: 2026
+  id: pldi26
+  link: https://pldi26.sigplan.org/
+  deadline: '2025-11-13 23:59:59'
+  date: Mon 15 - Fri 19 June 2026
+  place: Boulder, Colorado
 - title: FM
   year: 2026
   id: fm2026
