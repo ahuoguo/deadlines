@@ -1,3 +1,24 @@
+- title: CAV
+  year: 2027
+  id: cav27
+  link: https://conferences.i-cav.org/2027/cfp/
+  deadline: '2027-01-20 23:59:59'
+  date: Mon 19 - Fri 23 Jul 2027
+  place: Amsterdam, Netherlands
+- title: PLDI
+  year: 2027
+  id: pldi27
+  link: https://pldi27.sigplan.org/
+  deadline: '2026-11-12 23:59:59'
+  date: Sat 5 - Fri 11 Jun 2026
+  place: Atlanta, GA
+- title: OOPSLA
+  year: 2027
+  id: oopsla27r1
+  link: https://conf.researchr.org/track/splash-2027/splashoopsla2027
+  deadline: '2026-10-14 23:59:59'
+  date: Sun 10 - Fri 15 Jun 2026
+  place: Prague, Czechia
 - title: POPL
   year: 2027
   id: popl27
